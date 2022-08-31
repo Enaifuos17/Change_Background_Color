@@ -25,15 +25,15 @@
   margin-left: 20px;
   margin-right: 20px;
   font-size: 1.4em;
-  background-image: url(colors.webp);
+  /* background-image: url(colors.webp);
   background-size: cover;
   background-clip: text;
   -webkit-background-clip: text;
-  color: transparent;
+  color: transparent; */
 }
 
 .header {
-  background-image: linear-gradient(to left, rgb(71, 71, 71), #fff);
+  background-image: linear-gradient(to left, rgb(158, 157, 157), #fff);
 }
 
 .header .container {
